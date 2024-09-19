@@ -289,6 +289,15 @@ h1 a img{
 .interview-name{
   font-size: 14px;
 }
+.interview-box .in-logo{
+  align-self: flex-end;
+  width: 25%;
+}
+.interview-box .in-logo img{
+  height: auto;
+  width: 100%;
+  box-shadow: none;
+}
 
 
 /*reason*/
@@ -703,7 +712,7 @@ h1 a img{
   .interview-name{
     font-size: 14px;
   }
-
+  
   /*back-img*/
 .back-img img{
   height: auto;
